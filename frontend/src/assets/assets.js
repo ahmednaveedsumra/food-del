@@ -122,7 +122,7 @@ export const food_list = [
         name: "Greek salad",
         image: food_1,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "  ",
         category: "Salad"
     },
     {
@@ -221,7 +221,7 @@ export const food_list = [
     }, {
         _id: "15",
         name: "Grilled Sandwich",
-        image: food_15,
+        image: food_15, 
         price: 16,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich"
